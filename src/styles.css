@@ -13,11 +13,13 @@ h2 {
   text-align: center;
 }
 
+a {
+  margin: 0 10px;
+  color: rgb(78, 84, 165);
+}
 .navigation-links {
   text-align: center;
   text-decoration: none;
-  border-radius: 10px;
-  margin-top: 60px;
 }
 
 img {
