@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgoldenrodyellow;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: rgb(78, 84, 165);
+}
+
+h2 {
+  text-align: center;
+}
+
+.navigation-links {
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10px;
+  margin-top: 60px;
+}
+
+img {
+  max-width: 50%;
+  margin: auto;
+  border-radius: 15px;
+  display: block;
+  margin-bottom: 30px;
+}
+.email-link {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(78, 84, 165);
+}
